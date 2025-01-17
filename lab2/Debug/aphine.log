@@ -1,0 +1,8 @@
+﻿  aphine.cpp
+D:\parallel_lab\lab2\aphine.cpp(45,64): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+D:\parallel_lab\lab2\aphine.cpp(47,97): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  aphine.vcxproj -> D:\parallel_lab\lab2\Debug\aphine.exe
