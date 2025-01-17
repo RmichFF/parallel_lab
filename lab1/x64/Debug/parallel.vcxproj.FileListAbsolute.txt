@@ -1,2 +1,0 @@
-C:\Users\dns\source\repos\parallel\x64\Debug\parallel.exe
-D:\parallel_lab\lab1\x64\Debug\parallel.exe

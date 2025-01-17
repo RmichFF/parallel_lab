@@ -1,4 +1,0 @@
-﻿  parallel.cpp
-C:\Users\dns\source\repos\parallel\parallel.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\dns\source\repos\parallel\parallel.cpp(41,23): warning C4018: <: несоответствие типов со знаком и без знака
-  parallel.vcxproj -> C:\Users\dns\source\repos\parallel\Debug\parallel.exe
