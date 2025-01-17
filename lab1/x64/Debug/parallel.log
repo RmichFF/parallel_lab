@@ -1,0 +1,43 @@
+﻿  parallel.cpp
+D:\parallel_lab\lab1\parallel.cpp(82,52): warning C4267: =: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=unsigned int
+          ]
+D:\parallel_lab\lab1\parallel.cpp(86,97): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+D:\parallel_lab\lab1\parallel.cpp(104,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\parallel_lab\lab1\parallel.cpp(139,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\parallel_lab\lab1\parallel.cpp(244,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\parallel_lab\lab1\parallel.cpp(291,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\type_traits(1534,67): warning C4244: аргумент: преобразование "_Ty1" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Ty1=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(51): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::invoke<sum_cpp_cs::<lambda_1>,unsigned __int64,>(_Callable &&,_Ty1 &&) noexcept(false)"
+          with
+          [
+              _Callable=sum_cpp_cs::<lambda_1>,
+              _Ty1=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(62): message : выполняется компиляция ссылки на экземпляр шаблон функции "unsigned int std::thread::_Invoke<_Tuple,0,1>(void *) noexcept"
+          with
+          [
+              _Tuple=_Tuple
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(66): message : выполняется компиляция ссылки на экземпляр шаблон функции "unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0,1>(std::integer_sequence<size_t,0,1>) noexcept)(void *) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\thread(89): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::thread::_Start<sum_cpp_cs::<lambda_1>&,size_t&>(_Fn,size_t &)"
+          with
+          [
+              _Fn=sum_cpp_cs::<lambda_1> &
+          ]
+D:\parallel_lab\lab1\parallel.cpp(247): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::thread::thread<sum_cpp_cs::<lambda_1>&,size_t&,0>(_Fn,size_t &)"
+          with
+          [
+              _Fn=sum_cpp_cs::<lambda_1> &
+          ]
+  parallel.vcxproj -> D:\parallel_lab\lab1\x64\Debug\parallel.exe
